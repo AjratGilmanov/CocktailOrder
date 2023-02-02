@@ -1,0 +1,26 @@
+body{
+  background-image: url('https://st.depositphotos.com/2576363/4639/i/600/depositphotos_46393533-stock-photo-wood-texture-background-of-natural.jpg');
+}
+.order-page{
+  height: 100%;
+  position: -webkit-sticky ;
+  border: brown solid 3px;
+  background-color: rgba(192, 132, 132, 0.401);
+}
+img{
+  height: 180px;
+  width: 140px;
+}
+.app{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+.cocktail-card{
+  border: rgb(165, 42, 42) solid 3px;
+  background-color: rgba(192, 132, 132, 0.233);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
